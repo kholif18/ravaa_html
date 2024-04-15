@@ -34,8 +34,6 @@
   <script src="assets/js/owl-carousel.js"></script>
 
   <script src="assets/js/tabs.js"></script>
-  <script src="assets/js/popup.js"></script>
-  <script src="assets/js/custom.js"></script>
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
